@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer and Web Designer curren
 - 📧 [Email](mailto:justinguerrerowork@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgtwenty3)](https://github.com/jgtwenty3/github-readme-stats)
 
 <!--
 **jgtwenty3/jgtwenty3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
